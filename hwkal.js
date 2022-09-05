@@ -20,14 +20,14 @@ global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%
 global.email = 'openbo15k@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'ꪶ 𝟒𝐑𝐚𝐧𝐳𝐙 〩 𝐌𝐨𝐝𝐬 丰 ' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'ꪶ 𝟒𝐑𝐚𝐧𝐳𝐙 〩 𝐌𝐨𝐝𝐬 丰' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'ꪶ 𝟒𝐑𝐚𝐧𝐳𝐙 〩 𝐌𝐨𝐝𝐬 丰' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ꪶ 2014 HUM4N UNT1L DE4D 丰 ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ꪶ 2014 HUM4N UNT1L DE4D 丰' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ꪶ 2014 HUM4N UNT1L DE4D 丰' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6282393734303']
-global.packname = 'ꪶ 𝟒𝐑𝐚𝐧𝐳𝐙 〩 𝐌𝐨𝐝𝐬 丰'
-global.ownerr = ['ꪶ 𝟒𝐑𝐚𝐧𝐳𝐙 〩 𝐌𝐨𝐝𝐬 丰']
+global.owner = ['6285782139726']
+global.packname = 'ꪶ 2014 HUM4N UNT1L DE4D 丰'
+global.ownerr = ['ꪶ 2014 HUM4N UNT1L DE4D 丰']
 global.author = 'Bot Privat🎭'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
